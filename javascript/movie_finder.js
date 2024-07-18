@@ -1,5 +1,5 @@
 const API_URL = " http://www.omdbapi.com/?i=tt3896198&apikey=dac3d7e&s=";
-const API_URL_SEARCH = "http://www.omdbapi.com/?apikey=dac3d7e&i=tt0417299";
+const API_URL_SEARCH = "http://www.omdbapi.com/?apikey=dac3d7e&i=";
 var search_input = document.getElementById("search_input");
 var card = document.getElementsByClassName("movie-cards")[0];
 
